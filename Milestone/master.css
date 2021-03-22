@@ -62,5 +62,13 @@ main > div div{
 	font-size: 17px;
 	font-weight: 600;
 	text-transform: uppercase;
-
+}
+main div i.animal{
+	color: blue;
+}
+main div i.vegetable{
+	color: orange;
+}
+main div i.user{
+	color: purple;
 }
